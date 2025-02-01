@@ -29,3 +29,13 @@ print("True or False", True or False)    # True
 print("False or False", False or False)  # False
 print("not True", not True)              # False
 print("not False", not False)            # True
+
+
+# Tablas de verdad (referencia):
+print("\nTablas Verdad")
+print("AND:")
+print("A     B     A and B")
+print("True  True "  ,  True and True)
+print("True  False " ,  True and False)
+print("False True "  ,  False and True)
+print("False False"  ,  False and False)
