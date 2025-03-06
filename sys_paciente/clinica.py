@@ -44,6 +44,7 @@ def mostrar_menu(tipo):
                 break
             else:
                 print("Solo números")
+            
     
         pacientes[dni] = {
             "apellido_paterno": apellido_paterno,
